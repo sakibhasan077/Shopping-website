@@ -6,7 +6,7 @@ The project focuses on creating a clean and user-friendly shopping interface wit
 
 ## 📸 Screenshot
 
-![Shopping Website Screenshot](./screenshot.png)
+![Shopping Website Screenshot](./images/ecommerce.png)
 
 > Replace `screenshot.png` with your actual project screenshot.
 
