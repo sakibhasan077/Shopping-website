@@ -8,7 +8,7 @@ The project focuses on creating a clean and user-friendly shopping interface wit
 
 ![Shopping Website Screenshot](./images/ecommerce.png)
 
-> Replace `screenshot.png` with your actual project screenshot.
+
 
 ## 🛠️ Technologies Used
 
